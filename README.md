@@ -1,10 +1,11 @@
 # Hey, I'm Sokrates 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@sokrates-lamprou-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/socketopp)](https://twitter.com/socketopp) [![Linkedin Badge](https://img.shields.io/badge/-SokratesLamprou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sokrates-lamprou-93086264/)](https://www.linkedin.com/in/sokrates-lamprou-93086264/)
+[![Twitter Badge](https://img.shields.io/badge/-@socketopp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/socketopp)](https://twitter.com/socketopp) [![Linkedin Badge](https://img.shields.io/badge/-SokratesLamprou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sokrates-lamprou-93086264/)](https://www.linkedin.com/in/sokrates-lamprou-93086264/)
 
-Nice to meet you! I'm currently working Software engineer.
-I recently graduated from the [Shopify Dev Degree](https://devdegree.ca/) program in Spring 2022.
-I've previously worked on building the [Shopify Fulfillment Network](https://www.shopify.com/fulfillment) as a fullstack developer, Shopify's Experimentation Platform as a data developer, Shopify Checkout as a backend developer, and Shopify's Caching Platform as a production engineer.
+Nice to meet you! I'm currently working as a Backend developer at Bambuser.
+🔭 I’m currently working on reaching out the early adopters for ideas I have. 
+🌱 I’m currently learning Svelte.
+
 
 
 <!--
