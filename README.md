@@ -9,6 +9,11 @@ Nice to meet you! I do software engineering, I'm passionate about learning new l
 - 🌱 learning Svelte.
 - 💻 working on how to reach out to early adopters with some ideas I have. 
 
+### Ongoing projects
+
+- Failedge: platform to post about peoples failures and your lessons from them.
+
+- Distjobs: Job board for companies with distributed teams (not just remote)
 
 
 <!--
