@@ -11,10 +11,14 @@ Nice to meet you! I do software engineering, I'm passionate about learning new l
 
 ### Ongoing projects
 
+- [indiehackers.dev](https://indiebackers.dev/) - Where developers find early adopters to validate, shape, and support projects, while offering exclusive benefits to the community
+
+
+<!--
 - Failedge: platform to post about peoples failures and your lessons from them.
 
 - Distjobs: Job board for companies with distributed teams (not just remote)
-
+-->
 
 <!--
 **socketopp/socketopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
