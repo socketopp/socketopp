@@ -12,6 +12,7 @@ Nice to meet you! I do software development, I'm passionate about learning new l
 ### Ongoing projects
 
 - [indiehackers.dev](https://indiebackers.dev/) - Where developers find early adopters to validate, shape, and support projects, while offering exclusive benefits to the community
+- [growfa.st](https://growfa.st/) - Reward users for the content they create
 
 
 <!--
