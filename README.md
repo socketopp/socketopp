@@ -5,7 +5,7 @@
 Nice to meet you! I do software development, I'm passionate about learning new languages and frameworks and tinkering with anything that goes really. 
 
 ## I’m currently
-- 🔭 working on reaching out the early adopters for ideas I have. 
+- 🔭 Working actively on growfa.st
 - 🌱 learning Svelte.
 - 💻 currently looking for my next gig
 
