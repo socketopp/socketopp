@@ -5,17 +5,17 @@
 Nice to meet you! I do software development, I'm passionate about learning new languages and frameworks and tinkering with anything that goes really. 
 
 ## I’m currently
-- 🔭 Coding daily on growfa.st
 - 🌱 Learning Svelte
 - 💻 Available for hire
 
 ### Ongoing projects
+- Pong in Rust
 
-- [indiehackers.dev](https://indiebackers.dev/) - Where developers find early adopters to validate, shape, and support projects, while offering exclusive benefits to the community
-- [growfa.st](https://growfa.st/) - Reward users for the content they create
 
 
 <!--
+- [indiehackers.dev](https://indiebackers.dev/) - Where developers find early adopters to validate, shape, and support projects, while offering exclusive benefits to the community
+- [growfa.st](https://growfa.st/) - Reward users for the content they create
 - Failedge: platform to post about peoples failures and your lessons from them.
 
 - Distjobs: Job board for companies with distributed teams (not just remote)
