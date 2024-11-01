@@ -6,7 +6,6 @@ Nice to meet you! I do software development, I'm passionate about learning new l
 
 ## I’m currently
 - 🌱 Learning Svelte
-- 💻 Available for hire
 
 ### Ongoing projects
 - Pong in Rust
